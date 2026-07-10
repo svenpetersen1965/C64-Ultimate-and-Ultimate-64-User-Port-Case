@@ -8,3 +8,5 @@ As a result, the card edge connector and the pin header solder joints are expose
 <img src="https://github.com/svenpetersen1965/C64-Ultimate-and-Ultimate-64-User-Port-Case/blob/main/Rev.%200/Pictures/4309_-_C94U_User_Port_Case_connected.JPG" width="300" alt="C64U User Port Case">
 
 <img src="https://github.com/svenpetersen1965/C64-Ultimate-and-Ultimate-64-User-Port-Case/blob/main/Rev.%200/Pictures/4305_-_C94U_User_Port_Case_open.JPG" width="300" alt="C64U User Port Case">
+
+<img src="https://github.com/svenpetersen1965/C64-Ultimate-and-Ultimate-64-User-Port-Case/blob/main/Rev.%200/Pictures/4347_-_C64U_VIC-1011A.JPG" width="300" alt="C64U & VIC-1011A">
